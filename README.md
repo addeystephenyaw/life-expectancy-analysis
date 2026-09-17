@@ -21,7 +21,9 @@ The dataset contains health, demographic, education, and economic indicators for
 - Correcting a hidden data quality issue improved the model's performance measurably (R^2 rose from 0.80 to 0.83)
 
 ## Interactive Prediction App
-The project includes a Streamlit web application that allows users to enter values for selected factors and receive an estimated life expectancy.
+The trained model has been deployed as an interactive Streamlit application, allowing users to enter selected health, economic, and educational indicators and receive a predicted life expectancy.
+
+Launch the Life Expectancy Predictor ( https://predict-life-expectancy-analysis.streamlit.app )
 
 ### Input Factors
 The application uses the following factors:
