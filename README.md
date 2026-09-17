@@ -1,6 +1,3 @@
-# life-expectancy-analysis
-data cleaning, hypothesis testing, and regression modeling on WHO Life Expectancy data
-
 # Life Expectancy Analysis
 
 A data science project analyzing the WHO Life Expectancy dataset through data cleaning, statistical analysis, hypothesis testing, feature selection and regression modelling. The main objective was to investigate factors associated with life expectancy and build a model capable estimating life expectancy from selected health, education and economic indicators. 
