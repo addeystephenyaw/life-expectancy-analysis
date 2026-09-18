@@ -23,7 +23,7 @@ The dataset contains health, demographic, education, and economic indicators for
 ## Interactive Prediction App
 The trained model has been deployed as an interactive Streamlit application, allowing users to enter selected health, economic, and educational indicators and receive a predicted life expectancy.
 
-Launch the Life Expectancy Predictor ( https://predict-life-expectancy-analysis.streamlit.app )
+Launch the Life Expectancy Predictor ( https://predict-life-expectancy.streamlit.app )
 
 ### Input Factors
 The application uses the following factors:
